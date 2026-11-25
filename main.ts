@@ -12,6 +12,11 @@ import { join } from "node:path";
 // turn reframes it as a legal summons — "bring a lawyer". Specific
 // named person (my boss), exact time (4:55pm Friday), one physical
 // action (booked), one twist, nothing that explains the joke.
+// Blind pick over 8 candidates: runner-up was the fire-drill line
+// ("the only meeting where everyone shows up on time, because it's
+// the only one with an exit", 107 chars) — clever, but the Friday
+// 4:55pm line spikes harder on surprise, is 16 characters shorter
+// (the smaller-text tie-break), and its dread is more universal.
 const line =
   "My boss booked a 'quick chat' for 4:55pm on a Friday, which is office for 'bring a lawyer'.";
 
